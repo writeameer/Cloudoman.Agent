@@ -1,0 +1,12 @@
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\RemoteCommandProcessor.exe.config
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\RemoteCommandProcessor.exe
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\RemoteCommandProcessor.pdb
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\log4net.dll
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\Topshelf.dll
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\Topshelf.pdb
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\Topshelf.xml
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\obj\x86\Debug\RemoteCommandProcessor.exe
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\obj\x86\Debug\RemoteCommandProcessor.pdb
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\Cloudoman.exe.config
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\RemoteCmdRunner.exe.config

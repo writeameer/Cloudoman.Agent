@@ -1,0 +1,17 @@
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\Cloudoman.Agent.Test.dll.config
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\Cloudoman.Agent.Test.dll
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\Cloudoman.Agent.Test.pdb
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\Cloudoman.Agent.exe
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\Microsoft.ServiceBus.dll
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\nunit.framework.dll
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\nunit.mocks.dll
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\pnunit.framework.dll
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\Topshelf.dll
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\log4net.dll
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\Cloudoman.Agent.pdb
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\nunit.framework.xml
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\Topshelf.pdb
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\bin\Debug\Topshelf.xml
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\obj\Debug\Cloudoman.Agent.Test.dll
+C:\progs\WebcmdRunner\Cloudoman.Agent.Test\obj\Debug\Cloudoman.Agent.Test.pdb

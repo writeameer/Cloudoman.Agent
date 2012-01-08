@@ -1,0 +1,10 @@
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\RemoteCmdRunner.exe.config
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\RemoteCmdRunner.exe
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\RemoteCmdRunner.pdb
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\log4net.dll
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\Topshelf.dll
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\Topshelf.pdb
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\bin\Debug\Topshelf.xml
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\obj\x86\Debug\RemoteCmdRunner.exe
+C:\Users\ameer\Desktop\RemoteCommandProcessor\RemoteCommandProcessor\obj\x86\Debug\RemoteCmdRunner.pdb

@@ -1,0 +1,50 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:app.config" caret="144" fromTop="3" />
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="32" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="86" fromTop="12" />
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="86" fromTop="13" />
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="84" fromTop="10" />
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="86" fromTop="11" />
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="337" fromTop="17" />
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="1404" fromTop="40" />
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="797" fromTop="10" />
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="1312" fromTop="19" />
+      <File id="9BBE122C-7FED-4D26-A5E2-697A0FECD3F1/f:Program.cs" caret="55" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="4" />
+      <Item value="static" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="Timers" priority="1" />
+      <Item value="Timer`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="StringSplitOptions`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

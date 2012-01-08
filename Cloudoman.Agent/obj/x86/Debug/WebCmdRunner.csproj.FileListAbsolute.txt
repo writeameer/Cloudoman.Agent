@@ -1,0 +1,11 @@
+C:\Progs\WebcmdRunner\WebCmdRunner\bin\Debug\RemoteCmdRunner.exe.config
+C:\Progs\WebcmdRunner\WebCmdRunner\obj\x86\Debug\RemoteCmdRunner.exe
+C:\Progs\WebcmdRunner\WebCmdRunner\obj\x86\Debug\RemoteCmdRunner.pdb
+C:\Progs\WebcmdRunner\WebCmdRunner\bin\Debug\RemoteCmdRunner.exe
+C:\Progs\WebcmdRunner\WebCmdRunner\bin\Debug\RemoteCmdRunner.pdb
+C:\Progs\WebcmdRunner\WebCmdRunner\bin\Debug\log4net.dll
+C:\Progs\WebcmdRunner\WebCmdRunner\bin\Debug\Topshelf.dll
+C:\Progs\WebcmdRunner\WebCmdRunner\bin\Debug\Topshelf.pdb
+C:\Progs\WebcmdRunner\WebCmdRunner\bin\Debug\Topshelf.xml
+C:\Progs\WebcmdRunner\WebCmdRunner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Progs\WebcmdRunner\WebCmdRunner\bin\Debug\Microsoft.ServiceBus.dll
